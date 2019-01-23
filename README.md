@@ -17,8 +17,7 @@ Dynamic Graph in Real World(Individual Project)
 
 <br/>
 
-주제 소개
----------
+## 주제 소개
 
 ### Topic : "Road Trip with the Cheapest Oil Price"
 
@@ -28,8 +27,7 @@ Dynamic Graph in Real World(Individual Project)
 
 <br/>
 
-구현 시나리오
-------------
+## 구현 시나리오
 
 &nbsp;&nbsp;① 사용자로부터 여행(방문)하고자 하는 여러 지역을 '일자별로' 선택받는다. 이때 여행기간에는 제한이 있으며, 출발지 및 여행(방문) 지역은 서울, 대전, 대구, 인천, 부산, 울산, 광주, 창원 등의 대도시로 선정된다.
 
