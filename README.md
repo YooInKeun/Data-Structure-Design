@@ -1,5 +1,5 @@
-Data-Structure-Design
-=====================
+Road Trip with the Cheapest Oil Price
+=====================================
 
 Dynamic Graph in Real World(Individual Project)
 -----------------------------------------------
@@ -20,7 +20,7 @@ Dynamic Graph in Real World(Individual Project)
 
 * [구현 시나리오](#구현-시나리오)
 
-* [Dynamic Graph인 이유](#Dynamic-Graph인-이유)
+* [자료구조(Dynamic Graph)](#자료구조(Dynamic-Graph))
 
 * [측정가능한 의미 있는 정보](#측정가능한-의미-있는-정보)
 
@@ -91,7 +91,7 @@ ex) 사용자가 다음과 같이 입력
 
 <br/>
 
-## Dynamic Graph인 이유
+## 자료구조(Dynamic Graph)
 
 ```
 - Node : 고속도로 동선상에 있는 도시 및 주유소(도시는 Weight가 없는 Node)
