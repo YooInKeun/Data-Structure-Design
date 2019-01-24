@@ -8,7 +8,9 @@ Dynamic Graph in Real World(Individual Project)
 
 ## 프로젝트 소개
 
-### Topic : "Road Trip with the Cheapest Oil Price" (가장 저렴한 기름값으로, 장거리 자동차 여행하기)
+### 주제 : "Road Trip with the Cheapest Oil Price"
+
+### (가장 저렴한 기름값으로, 장거리 자동차 여행하기)
 
 &nbsp;&nbsp;'Road Trip(장거리 자동차 여행)'은 의미상 지은 이름이고, **핵심은 타 지역을 자동차를 이용해 고속도로를 경유하면서 이동할 때 가장 저렴한 기름값으로 이동**하는 것을 목표로한다.
 
